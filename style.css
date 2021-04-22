@@ -1,0 +1,30 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copyright{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    font-size: 30px;
+}
+canvas{
+    border-color: gray;
+    border-style: ridge;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin-top: 0px; 
+    margin-left: 300px;
+    background-color: yellow;
+}
+
